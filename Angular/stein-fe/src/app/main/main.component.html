@@ -1,0 +1,93 @@
+<p>main works!</p>
+
+<!--<mat-spinner [hidden]="!loading"  id="spinner" [diameter]="50"></mat-spinner>-->
+
+<div>
+    <hr>
+    <h2>Inventory Data</h2>
+    <div>
+        <mat-table [dataSource]="inventoryData">
+            <ng-container matColumnDef="id">
+                <mat-header-cell *matHeaderCellDef>
+                  Id
+                </mat-header-cell>
+                <mat-cell *matCellDef="let record">
+                    <span>{{record.id}}</span>
+                </mat-cell>
+            </ng-container>
+            <ng-container matColumnDef="name">
+                <mat-header-cell *matHeaderCellDef>
+                    Name
+                  </mat-header-cell>
+                <mat-cell *matCellDef="let record">
+                    <span>{{record.name}}</span>
+                </mat-cell>
+            </ng-container>
+            <ng-container matColumnDef="kernels">
+                <mat-header-cell *matHeaderCellDef>
+                    Kernels
+                  </mat-header-cell>
+                <mat-cell *matCellDef="let record">
+                    <span>{{record.kernels}}</span>
+                </mat-cell>
+            </ng-container>
+
+            <mat-header-row mat-header-row *matHeaderRowDef="inventoryColumns">                  
+            </mat-header-row> 
+
+            <mat-row mat-row id="hide-cursor" *matRowDef="let row; columns: inventoryColumns"></mat-row>
+        </mat-table>>
+    </div>
+</div>
+
+<div>
+    <hr>
+    <h2>Requests Data</h2>
+    <div>
+        <mat-table [dataSource]="requestData">
+            <ng-container matColumnDef="id">
+                <mat-header-cell *matHeaderCellDef>
+                  Id
+                </mat-header-cell>
+                <mat-cell *matCellDef="let record">
+                    <span>{{record.id}}</span>
+                </mat-cell>
+            </ng-container>
+            <ng-container matColumnDef="inventoryName">
+                <mat-header-cell *matHeaderCellDef>
+                    Inventory
+                  </mat-header-cell>
+                <mat-cell *matCellDef="let record">
+                    <span>{{record.inventoryName}}</span>
+                </mat-cell>
+            </ng-container>
+            <ng-container matColumnDef="requested">
+                <mat-header-cell *matHeaderCellDef>
+                    Requested
+                  </mat-header-cell>
+                <mat-cell *matCellDef="let record">
+                    <span>{{record.requestedKernels}}</span>
+                </mat-cell>
+            </ng-container>
+            <ng-container matColumnDef="process">
+                <mat-header-cell *matHeaderCellDef>
+                    Requested
+                  </mat-header-cell>
+                <mat-cell *matCellDef="let record">
+                    <button md-raised-button (click)="process(record)">Process</button>
+                </mat-cell>
+            </ng-container>
+
+            <mat-header-row mat-header-row *matHeaderRowDef="requestColumns">                  
+            </mat-header-row> 
+
+            <mat-row mat-row id="hide-cursor" *matRowDef="let row; columns: requestColumns"></mat-row>
+        </mat-table>>
+    </div>
+</div>
+
+<div>
+    <hr>
+    <h2>Message</h2>
+    <span>{{message}}</span>
+</div>

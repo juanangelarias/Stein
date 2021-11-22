@@ -1,0 +1,10 @@
+D:\Stein\Angular\stein-be\Stein\SteinCommon\bin\Debug\netcoreapp3.1\SteinCommon.deps.json
+D:\Stein\Angular\stein-be\Stein\SteinCommon\bin\Debug\netcoreapp3.1\SteinCommon.dll
+D:\Stein\Angular\stein-be\Stein\SteinCommon\bin\Debug\netcoreapp3.1\SteinCommon.pdb
+D:\Stein\Angular\stein-be\Stein\SteinCommon\obj\Debug\netcoreapp3.1\SteinCommon.csproj.AssemblyReference.cache
+D:\Stein\Angular\stein-be\Stein\SteinCommon\obj\Debug\netcoreapp3.1\SteinCommon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stein\Angular\stein-be\Stein\SteinCommon\obj\Debug\netcoreapp3.1\SteinCommon.AssemblyInfoInputs.cache
+D:\Stein\Angular\stein-be\Stein\SteinCommon\obj\Debug\netcoreapp3.1\SteinCommon.AssemblyInfo.cs
+D:\Stein\Angular\stein-be\Stein\SteinCommon\obj\Debug\netcoreapp3.1\SteinCommon.csproj.CoreCompileInputs.cache
+D:\Stein\Angular\stein-be\Stein\SteinCommon\obj\Debug\netcoreapp3.1\SteinCommon.dll
+D:\Stein\Angular\stein-be\Stein\SteinCommon\obj\Debug\netcoreapp3.1\SteinCommon.pdb

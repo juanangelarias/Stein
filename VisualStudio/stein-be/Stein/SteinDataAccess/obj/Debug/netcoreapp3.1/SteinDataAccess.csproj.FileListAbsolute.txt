@@ -1,0 +1,14 @@
+D:\Stein\Angular\stein-be\Stein\SteinDataAccess\bin\Debug\netcoreapp3.1\db.json
+D:\Stein\Angular\stein-be\Stein\SteinDataAccess\bin\Debug\netcoreapp3.1\SteinDataAccess.deps.json
+D:\Stein\Angular\stein-be\Stein\SteinDataAccess\bin\Debug\netcoreapp3.1\SteinDataAccess.dll
+D:\Stein\Angular\stein-be\Stein\SteinDataAccess\bin\Debug\netcoreapp3.1\SteinDataAccess.pdb
+D:\Stein\Angular\stein-be\Stein\SteinDataAccess\bin\Debug\netcoreapp3.1\SteinCommon.dll
+D:\Stein\Angular\stein-be\Stein\SteinDataAccess\bin\Debug\netcoreapp3.1\SteinCommon.pdb
+D:\Stein\Angular\stein-be\Stein\SteinDataAccess\obj\Debug\netcoreapp3.1\SteinDataAccess.csproj.AssemblyReference.cache
+D:\Stein\Angular\stein-be\Stein\SteinDataAccess\obj\Debug\netcoreapp3.1\SteinDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stein\Angular\stein-be\Stein\SteinDataAccess\obj\Debug\netcoreapp3.1\SteinDataAccess.AssemblyInfoInputs.cache
+D:\Stein\Angular\stein-be\Stein\SteinDataAccess\obj\Debug\netcoreapp3.1\SteinDataAccess.AssemblyInfo.cs
+D:\Stein\Angular\stein-be\Stein\SteinDataAccess\obj\Debug\netcoreapp3.1\SteinDataAccess.csproj.CoreCompileInputs.cache
+D:\Stein\Angular\stein-be\Stein\SteinDataAccess\obj\Debug\netcoreapp3.1\SteinDataAccess.csproj.CopyComplete
+D:\Stein\Angular\stein-be\Stein\SteinDataAccess\obj\Debug\netcoreapp3.1\SteinDataAccess.dll
+D:\Stein\Angular\stein-be\Stein\SteinDataAccess\obj\Debug\netcoreapp3.1\SteinDataAccess.pdb

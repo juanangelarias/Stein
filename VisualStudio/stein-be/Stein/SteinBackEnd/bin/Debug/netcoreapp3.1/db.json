@@ -1,0 +1,41 @@
+{
+  "inventory": [
+    {
+      "id": 1,
+      "name": "24697-013-01-05",
+      "kernels": 75
+    },
+    {
+      "id": 2,
+      "name": "24698-019-01-10",
+      "kernels": 129
+    },
+    {
+      "id": 3,
+      "name": "24699-009-01-08",
+      "kernels": 0
+    }
+  ],
+  "requests": [
+    {
+      "id": 1,
+      "inventoryId": "1",
+      "requestedKernels": 10
+    },
+    {
+      "id": 2,
+      "inventoryId": "1",
+      "requestedKernels": 25
+    },
+    {
+      "id": 3,
+      "inventoryId": "2",
+      "requestedKernels": 100
+    },
+    {
+      "id": 4,
+      "inventoryId": "3",
+      "requestedKernels": 50
+    }
+  ]
+}
